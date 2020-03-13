@@ -4,7 +4,7 @@
 * Due: 27 March 2020 by 11:59 PM
 * Point value: 10
 
-In this practical session we explore `classes`, `objects`, `methods`, `return types`, and a fictional story about a pizza party.
+In this practical session we explore `if` statements, continue working with `objects` and `methods`, and revisit the local widget factory.
 
 * [Slack](https://cmpsc-100-02-sp-2020.slack.com)
 * [GitHub](https://www.github.com)
