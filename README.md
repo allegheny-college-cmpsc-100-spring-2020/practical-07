@@ -19,7 +19,7 @@ In this practical session we explore `if` statements, continue working with `obj
 
 * [Evaluation](#evaluation)
 * [Accepting the assignment](#accepting-the-assignment)
-* [Pizza Party!](#pizza-party)
+* [The Machines Can Do the Work](#the-machines-can-do-the-work)
 * [GatorGrader](#gatorgrader)
 
 ## General guidelines for practical sessions
